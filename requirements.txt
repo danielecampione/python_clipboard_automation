@@ -1,0 +1,19 @@
+# Dipendenze per l'automazione degli appunti di Windows 11
+# Compatibile con Python 3.6+
+
+# PyAutoGUI per l'automazione della GUI e simulazione di tasti/mouse
+pyautogui>=0.9.54
+
+# Pillow (PIL) - dipendenza di PyAutoGUI per la gestione delle immagini
+Pillow>=8.0.0
+
+# PyGetWindow - per la gestione delle finestre (opzionale, utile per funzionalità avanzate)
+pygetwindow>=0.0.9
+
+# Note:
+# - tkinter è incluso nella distribuzione standard di Python 3
+# - subprocess e threading sono moduli standard di Python
+# - time è un modulo standard di Python
+
+# Per installare le dipendenze:
+# pip install -r requirements.txt
