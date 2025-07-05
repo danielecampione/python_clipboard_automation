@@ -13,6 +13,9 @@ Il programma automatizza le seguenti operazioni:
 5. **Aggiunta sequenziale tramite la funzionalità Incolla** con pause di 1 secondo tra ogni elemento
 6. **Interruzioni di riga automatiche** dopo aver incollato l'intero contenuto degli appunti
 
+## Screenshot
+![Png](https://i.ibb.co/JR50q4wL/Immagine-2025-07-05-163132.png)
+
 ## Prerequisiti
 - **Microsoft Windows 11** 64-bit o **Microsoft Windows 10** 64-bit
 - **Python 3.6+** (con tkinter incluso)
